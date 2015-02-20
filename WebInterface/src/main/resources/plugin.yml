@@ -1,0 +1,5 @@
+name: WebInterface
+main: com.samoatesgames.webinterface.WebInterface
+version: 1.0
+authors: [SamOatesPlugins]
+description: Expose access to plugins via socket connections.
